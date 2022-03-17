@@ -1,30 +1,14 @@
-
-#container{
-    background-color: rgb(82, 23, 81);
-    padding: 10px;
-    width: 600px;
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    justify-content:space-between;
+#hero{
+    height: 800px;
+    background-image: url(/images/places/places.jpg);
+    background-size: cover;
+    background-position: center;
+                                 
+}
+.hero-contet{
+    width: 900px;
+    background-color: rgb(51, 47, 47, 0.8);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+    border-radius: 8px;
     
 }
-p{
-    background-color: rgb(211, 88, 209);
-    margin: 10px;
-    width: 250px;
-} 
-ul{
-    background-color: rgb(250, 146, 63);
-    list-style: none;
-    width: 250px;
-    margin: 10px;
-    display:flex;
-    padding: 0;
-    justify-content: flex-end;
-}
-li{
-    background-color: rgb(238, 212, 192);
-    width: 100px;
-    text-align: right;
- }
