@@ -10,5 +10,35 @@
     background-color: rgb(51, 47, 47, 0.8);
     box-shadow: 2px 4px 8px rgb(68, 67, 67);
     border-radius: 8px;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+    position: relative;
+    top:200px;
+
+}
+.hero-contet h1{
+   color: white;
+   text-transform: uppercase;
+   font-size: 50px;
+   font-family: 'Lato', sans-serif;
+   margin: 0;
+
+}
+.hero-contet p{
+    color: white;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+#hero-contet a{
+    text-decoration: none;
+    background-color: rgb(255, 251, 0);
+    padding: 12px 24px;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
     
+
 }
