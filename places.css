@@ -11,3 +11,18 @@ header{
     position: static;
     
 }
+main ul{
+    width: 800px;
+    margin: 0px auto;
+
+}
+main li{
+    display: flex;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+
+}
+.item-contet{
+    padding: 24px;
+}
