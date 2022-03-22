@@ -1,9 +1,7 @@
 #hero{
     height: 800px;
-    background-image: url(/places.jpg);
-    background-size: cover;
-    background-position: center;
-                                 
+    background: url(/places.JPG) center;
+    background-size: cover;          
 }
 .hero-contet{
     width: 900px;
